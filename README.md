@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leonard Ng, currently working as a PM.
-- 💞️ I’m looking to use this space to practise simple coding and hack things together as a proof of concept.
+- 💞️ Looking to use this space to practise simple coding, hacking things together as a proof of concept.
 
 <!---
 ex0rcist88/ex0rcist88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leonard Ng, currently working as a PM.
+- 👋 Hi, I’m Leonard, currently working as a PM.
 - 💞️ Looking to use this space to practise simple coding, hacking things together as a proof of concept.
 
 <!---
